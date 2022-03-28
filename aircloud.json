@@ -1,0 +1,5 @@
+{
+    "aircloud": {
+        "server": "https://aircloudservice.herokuapp.com"
+    }
+}
