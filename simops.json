@@ -1,0 +1,10 @@
+{
+    "SimOps Server": "<URL_OF_WHERE_SIMOPS_SERVICE_INSTALLED>",
+    "Authentication": {
+        "Method": "[AUTH0|INTERNAL]",
+        "Auth0": {
+            "Domain": "<YOUR_AUTH0_DOMAIN_NAME>",
+            "ClientId": "<CLIENT_ID_OF_APP_IN_YOUR_AUTH0>"
+        }
+    }
+}
