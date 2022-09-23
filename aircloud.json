@@ -1,5 +1,5 @@
 {
     "aircloud": {
-        "server": "https://aircloudservice.herokuapp.com"
+        "server": "https://api.pyxisint.com"
     }
 }
