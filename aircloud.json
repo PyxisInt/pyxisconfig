@@ -1,5 +1,6 @@
 {
-    "aircloud": {
-        "server": "https://api.pyxisint.com"
+    "aviator": {
+        "prod": "https://api.pyxisint.com",
+        "dev": "https://localhost:5001"
     }
 }
